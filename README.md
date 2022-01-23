@@ -1,4 +1,4 @@
-# imobiliaria
+# Site de imobiliaria virtual feito em Django
 Projeto em Python e Django de uma imobiliária virtual, com cadastro de usuários, filtros de imóveis e agendamento de visitas.
 
 obtenha o código a partir desse repositório por download ou git clone https://github.com/fabiogvb/imobiliaria.git
