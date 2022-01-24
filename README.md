@@ -1,8 +1,3 @@
-<img src="exemplo-image1.png" alt="exemplo imagem">
-<img src="exemplo-image2.png" alt="exemplo imagem">
-<img src="exemplo-image3.png" alt="exemplo imagem">
-<img src="exemplo-image4.png" alt="exemplo imagem">
-<img src="exemplo-image5.png" alt="exemplo imagem">
 
 # Site de uma imobiliaria virtual
 
@@ -30,3 +25,8 @@ http://127.0.0.1:8000/admin
 OBS: Para configuração de um novo superusuário e criação de um novo banco de dados delete o arquivo db.sqlite3 antes de executar o comando ./install.sh
 
 
+<img src="exemplo-image1.png" alt="exemplo imagem">
+<img src="exemplo-image2.png" alt="exemplo imagem">
+<img src="exemplo-image3.png" alt="exemplo imagem">
+<img src="exemplo-image4.png" alt="exemplo imagem">
+<img src="exemplo-image5.png" alt="exemplo imagem">
