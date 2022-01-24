@@ -1,3 +1,5 @@
+<img src="exemplo-image.png" alt="exemplo imagem">
+
 # Site de uma imobiliaria virtual
 
 Projeto em Python e Django de uma imobiliária virtual, com cadastro de usuários, filtros de imóveis e agendamento de visitas.
