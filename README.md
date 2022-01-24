@@ -1,4 +1,8 @@
-<img src="exemplo-image.png" alt="exemplo imagem">
+<img src="exemplo-image1.png" alt="exemplo imagem">
+<img src="exemplo-image2.png" alt="exemplo imagem">
+<img src="exemplo-image3.png" alt="exemplo imagem">
+<img src="exemplo-image4.png" alt="exemplo imagem">
+<img src="exemplo-image5.png" alt="exemplo imagem">
 
 # Site de uma imobiliaria virtual
 
